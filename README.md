@@ -1,3 +1,33 @@
+# Project Overview
+
+A responsive and modern web application built with Angular v20 to showcase a collection of products in an elegant gallery layout. Users can browse products, view details, and enjoy a smooth, clean UI experience.
+
+🔗 Live Demo: https://products-gallery-eta.vercel.app/
+
+# Screenshots or Demo
+
+Demo : https://products-gallery-eta.vercel.app/
+
+# Tech Stack Used
+
+- Angular v20 – Modern web development framework
+
+- TypeScript – Primary language used with Angular
+
+- RxJS – Reactive programming for managing asynchronous data
+
+- CSS – Styling the user interface
+
+- Tailwind
+
+- Flowbite
+
+- Signals
+
+- Daisy UI
+
+- Vercel – Hosting and deployment platform
+
 # ECommerce
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.2.
